@@ -1,9 +1,8 @@
 Equipo de Desarrollo
 
 Integrantes:
-1. Pendiente
-2. Pendiente
-3. Pendiente
+1. Edwin Martínez - Backend 
+
 
 Proyecto:
 Aplicación de perfiles del equipo
